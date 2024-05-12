@@ -1,0 +1,2 @@
+C:\Users\jeren\Desktop\PONG\PONG-GAME\PONG\x64\Debug\raylib.dll
+C:\Users\jeren\Desktop\PONG\PONG-GAME\PONG\PONG\x64\Debug\PONG.vcxproj.Up2Date
